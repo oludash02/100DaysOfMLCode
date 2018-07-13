@@ -10,3 +10,5 @@ Day3: Studied the rest chapters of Python for Data Analysis textbook and github 
 Day4: Explored various algorithms for Breast Cancer classification on the messidor dataset obtained from UCI website
 
 Day5: Machine learning for the Iris dataset
+
+Day6: Used SVM, LinearSVC and experimented with the tpot library for MNIST classification
