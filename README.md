@@ -12,3 +12,4 @@ Day4: Explored various algorithms for Breast Cancer classification on the messid
 Day5: Machine learning for the Iris dataset
 
 Day6: Used SVM, LinearSVC and experimented with the tpot library for MNIST classification (tpot link: https://github.com/EpistasisLab/tpot)
+Day 7: MNIST classification using Artificial Neural Network in keras and pytorch
