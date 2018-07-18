@@ -15,3 +15,4 @@ This repository contains codes for the 100DaysOfMLCode challenge by Siraj Raval
 <b>Day 7</b>: MNIST classification using Artificial Neural Network in keras and pytorch
 <p><b>Day 8</b>: MNIST classification using Convolutional Neural Network in keras and pytorch</p>
 <p><b>Day 9</b>: Fashion-MNIST classification using Convolutional Neural Network in keras and pytorch</p>
+<p><b>Day 10</b>: Dogs vs Cats classification in Keras</p>
